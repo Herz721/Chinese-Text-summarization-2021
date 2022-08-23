@@ -1,4 +1,4 @@
-# Chinese-Text-summirazation-2021
+# Chinese-Text-summarization-2021
 this is my undergraduate program graduation thesis in HUST, 2021.
 
 - Designed and implemented an automatic Chinese news text summarization system, based on Unified pre-
